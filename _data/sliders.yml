@@ -23,5 +23,5 @@
     - data-src: /pencils/imgs/20023/20-023__009.jpg
       alt: The full set
   settings:
-    height: "3:4"
+    height: "'3:4'"
     effect: "'fade'"
