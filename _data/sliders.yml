@@ -1,10 +1,24 @@
-- selector: s20029
+- selector: s20023
   captions: true
   images:
-    - src: /pencils/imgs/20021/20-021__001.jpg
+    - src: /pencils/imgs/20023/20-023__001.jpg
+      alt: Material cut and prepped
+    - src: /pencils/imgs/20023/20-023__002.jpg
       alt: Drilling the center hole
-    - src: /pencils/imgs/20021/20-021__002.jpg
-      alt: Spinning on the lathe
+    - src: /pencils/imgs/20023/20-023__003.jpg
+      alt: Glued up and ready to go
+    - src: /pencils/imgs/20023/20-023__004.jpg
+      alt: Ready to start turning
+    - src: /pencils/imgs/20023/20-023__005.jpg
+      alt: All rounded
+    - src: /pencils/imgs/20023/20-023__006.jpg
+      alt: Shaping the material
+    - src: /pencils/imgs/20023/20-023__007.jpg
+      alt: Assembeled and finished
+    - src: /pencils/imgs/20023/20-023__008.jpg
+      alt: The pen
+    - src: /pencils/imgs/20023/20-023__009.jpg
+      alt: The full set
   settings:
     height: "'auto'"
     effect: "'fade'"
