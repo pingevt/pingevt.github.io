@@ -1,24 +1,27 @@
 - selector: s20023
+  bullets: true
   captions: true
   images:
-    - src: /pencils/imgs/20023/20-023__001.jpg
+    - data-src: /pencils/imgs/20023/20-023__001.jpg
+      title: This is a title
       alt: Material cut and prepped
-    - src: /pencils/imgs/20023/20-023__002.jpg
+      href: /pencils/imgs/20023/20-023__001.jpg
+    - data-src: /pencils/imgs/20023/20-023__002.jpg
       alt: Drilling the center hole
-    - src: /pencils/imgs/20023/20-023__003.jpg
+    - data-src: /pencils/imgs/20023/20-023__003.jpg
       alt: Glued up and ready to go
-    - src: /pencils/imgs/20023/20-023__004.jpg
+    - data-src: /pencils/imgs/20023/20-023__004.jpg
       alt: Ready to start turning
-    - src: /pencils/imgs/20023/20-023__005.jpg
+    - data-src: /pencils/imgs/20023/20-023__005.jpg
       alt: All rounded
-    - src: /pencils/imgs/20023/20-023__006.jpg
+    - data-src: /pencils/imgs/20023/20-023__006.jpg
       alt: Shaping the material
-    - src: /pencils/imgs/20023/20-023__007.jpg
+    - data-src: /pencils/imgs/20023/20-023__007.jpg
       alt: Assembeled and finished
-    - src: /pencils/imgs/20023/20-023__008.jpg
+    - data-src: /pencils/imgs/20023/20-023__008.jpg
       alt: The pen
-    - src: /pencils/imgs/20023/20-023__009.jpg
+    - data-src: /pencils/imgs/20023/20-023__009.jpg
       alt: The full set
   settings:
-    height: "'auto'"
+    height: "3:4"
     effect: "'fade'"
