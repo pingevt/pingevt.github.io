@@ -1,0 +1,10 @@
+- selector: s20021
+  captions: true
+  images:
+    - src: /pencils/imgs/20021/20-021__001.jpg
+      alt: Drilling the center hole
+    - src: /pencils/imgs/20021/20-021__002.jpg
+      alt: Spinning on the lathe
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
