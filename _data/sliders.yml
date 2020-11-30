@@ -1,11 +1,9 @@
 - selector: s20023
-  bullets: true
+  bullets: false
   captions: true
   images:
     - data-src: /pencils/imgs/20023/20-023__001.jpg
-      title: This is a title
       alt: Material cut and prepped
-      href: /pencils/imgs/20023/20-023__001.jpg
     - data-src: /pencils/imgs/20023/20-023__002.jpg
       alt: Drilling the center hole
     - data-src: /pencils/imgs/20023/20-023__003.jpg
