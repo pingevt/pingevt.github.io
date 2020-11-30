@@ -5,6 +5,14 @@
 
 a {
   color: #993333;
+
+  &:hover {
+    color: darken($color: #993333, 10%)
+  }
+}
+
+.ideal-image-slider {
+  margin-bottom: 20px;
 }
 
 header {
