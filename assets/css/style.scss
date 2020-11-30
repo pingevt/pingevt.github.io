@@ -11,24 +11,68 @@ a {
   }
 }
 
-.ideal-image-slider {
-  margin-bottom: 20px;
-}
-
 header {
   position: relative;
 }
 
-.logo {
-  position: absolute;
-  max-width: 50px;
-  top: 0;
-  left: 0;
-}
+.masthead {
+  display: flex;
+  align-items: center;
 
-@media screen and (max-width: 960px) {
-  .logo {
-    display: block;
-    max-width: 200px;
+  h1 {
+    order: 2;
+  }
+
+  svg#logo {
+    order: 1;
+    width: 50px;
+
+    path {
+      fill: #000000;
+      transition: fill 0.75s ease-out 0.35s;
+      &:hover {
+        fill: #333333;
+      }
+    }
+
+    path.circle {
+      fill: #993333;
+      transform: translateY(0px);
+      transition: fill 0.75s ease-out 0.35s, transform 0.75s ease-out;
+
+      &:hover {
+        transform: translateY(15px);
+      }
+    }
+  }
+
+  &:hover {
+    svg#logo {
+      path {
+        fill: #333333;
+      }
+
+      path.circle {
+        transform: translateY(15px);
+      }
+    }
   }
 }
+
+.ideal-image-slider {
+  margin-bottom: 20px;
+}
+
+// .logo {
+//   position: absolute;
+//   max-width: 50px;
+//   top: 0;
+//   left: 0;
+// }
+
+// @media screen and (max-width: 960px) {
+//   .logo {
+//     display: block;
+//     max-width: 200px;
+//   }
+// }
