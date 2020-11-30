@@ -15,10 +15,192 @@
     - data-src: /pencils/imgs/20023/20-023__006.jpg
       alt: Shaping the material
     - data-src: /pencils/imgs/20023/20-023__007.jpg
-      alt: Assembeled and finished
+      alt: Assembled and finished
     - data-src: /pencils/imgs/20023/20-023__008.jpg
       alt: The pen
     - data-src: /pencils/imgs/20023/20-023__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20024
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20024/20-024__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20024/20-024__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20024/20-024__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20024/20-024__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20024/20-024__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20024/20-024__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20024/20-024__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20024/20-024__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20024/20-024__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20025
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20025/20-025__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20025/20-025__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20025/20-025__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20025/20-025__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20025/20-025__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20025/20-025__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20025/20-025__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20025/20-025__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20025/20-025__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20026
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20026/20-026__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20026/20-026__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20026/20-026__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20026/20-026__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20026/20-026__005.jpg
+      alt: All rounded
+    - data-src: /pencils/imgs/20026/20-026__006.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20026/20-026__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20026/20-026__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20026/20-026__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20027
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20027/20-027__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20027/20-027__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20027/20-027__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20027/20-027__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20027/20-027__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20027/20-027__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20027/20-027__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20027/20-027__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20027/20-027__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20028
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20028/20-028__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20028/20-028__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20028/20-028__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20028/20-028__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20028/20-028__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20028/20-028__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20028/20-028__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20028/20-028__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20028/20-028__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20029
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20029/20-029__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20029/20-029__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20029/20-029__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20029/20-029__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20029/20-029__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20029/20-029__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20029/20-029__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20029/20-029__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20029/20-029__009.jpg
+      alt: The full set
+  settings:
+    height: "'3:4'"
+    effect: "'fade'"
+
+- selector: s20030
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20030/20-030__001.jpg
+      alt: Material cut and prepped
+    - data-src: /pencils/imgs/20030/20-030__002.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20030/20-030__003.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20030/20-030__004.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20030/20-030__005.jpg
+      alt: Shaping the material
+    - data-src: /pencils/imgs/20030/20-030__006.jpg
+      alt: Sanded and polished
+    - data-src: /pencils/imgs/20030/20-030__007.jpg
+      alt: Assembled and finished
+    - data-src: /pencils/imgs/20030/20-030__008.jpg
+      alt: The pen
+    - data-src: /pencils/imgs/20030/20-030__009.jpg
       alt: The full set
   settings:
     height: "'3:4'"
