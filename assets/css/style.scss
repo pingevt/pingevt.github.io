@@ -7,7 +7,7 @@ a {
   color: #993333;
 
   &:hover, &:focus {
-    color: darken($color: #993333, 10%);
+    color: darken(#993333, 10%);
   }
 }
 
