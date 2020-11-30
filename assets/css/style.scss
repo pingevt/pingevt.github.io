@@ -6,7 +6,7 @@
 a {
   color: #993333;
 
-  &:hover {
+  &:hover, &:focus {
     color: darken($color: #993333, 10%)
   }
 }
