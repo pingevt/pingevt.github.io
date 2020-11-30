@@ -18,9 +18,11 @@ header {
 .masthead {
   display: flex;
   align-items: center;
+  margin-top: -40px;
 
   h1 {
     order: 2;
+    margin: 15px 0 0 0 ;
   }
 
   svg#logo {
@@ -29,7 +31,7 @@ header {
 
     path {
       fill: #000000;
-      transition: fill 0.75s ease-out 0.35s;
+      transition: fill 0.25s ease-out;
       &:hover {
         fill: #333333;
       }
@@ -38,11 +40,7 @@ header {
     path.circle {
       fill: #993333;
       transform: translateY(0px);
-      transition: fill 0.75s ease-out 0.35s, transform 0.75s ease-out;
-
-      &:hover {
-        transform: translateY(15px);
-      }
+      transition: fill 0.25s ease-out, transform 0.25s ease-out;
     }
   }
 
@@ -53,6 +51,7 @@ header {
       }
 
       path.circle {
+        fill: #993333;
         transform: translateY(15px);
       }
     }
