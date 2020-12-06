@@ -2,6 +2,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20023/20-023__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20023/20-023__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20023/20-023__002.jpg
@@ -20,6 +22,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20023/20-023__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20023/20-023__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -28,6 +32,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20024/20-024__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20024/20-024__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20024/20-024__002.jpg
@@ -46,6 +52,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20024/20-024__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20024/20-024__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -54,6 +62,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20025/20-025__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20025/20-025__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20025/20-025__002.jpg
@@ -72,6 +82,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20025/20-025__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20025/20-025__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -80,6 +92,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20026/20-026__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20026/20-026__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20026/20-026__002.jpg
@@ -98,6 +112,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20026/20-026__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20026/20-026__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -106,6 +122,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20027/20-027__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20027/20-027__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20027/20-027__002.jpg
@@ -124,6 +142,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20027/20-027__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20027/20-027__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -132,6 +152,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20028/20-028__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20028/20-028__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20028/20-028__002.jpg
@@ -150,6 +172,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20028/20-028__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20028/20-028__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -158,6 +182,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20029/20-029__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20029/20-029__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20029/20-029__002.jpg
@@ -176,6 +202,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20029/20-029__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20029/20-029__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
@@ -184,6 +212,8 @@
   bullets: false
   captions: true
   images:
+    - data-src: /pencils/imgs/20030/20-030__000.jpg
+      alt: Your pen!
     - data-src: /pencils/imgs/20030/20-030__001.jpg
       alt: Material cut and prepped
     - data-src: /pencils/imgs/20030/20-030__002.jpg
@@ -202,6 +232,8 @@
       alt: The pen
     - data-src: /pencils/imgs/20030/20-030__009.jpg
       alt: The full set
+    - data-src: /pencils/imgs/20030/20-030__010.jpg
+      alt: The full set and cirtificates
   settings:
     height: "'3:4'"
     effect: "'fade'"
