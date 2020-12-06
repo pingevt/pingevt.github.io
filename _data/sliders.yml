@@ -25,7 +25,7 @@
     - data-src: /pencils/imgs/20023/20-023__010.jpg
       alt: The full set and certificates
   settings:
-    height: "'3:4'"
+    height: "'auto'"
     effect: "'fade'"
 
 - selector: s20024
