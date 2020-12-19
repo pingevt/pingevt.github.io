@@ -325,3 +325,105 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: s20032
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pencils/imgs/20032/20-032__001.jpg
+      href: /pencils/imgs/20032/20-032__001.jpg
+      alt: Your pencil!
+    - data-src: /pencils/imgs/20032/20-032__002.jpg
+      href: /pencils/imgs/20032/20-032__002.jpg
+      alt: Metaerials measured up and prepped
+    - data-src: /pencils/imgs/20032/20-032__003.jpg
+      href: /pencils/imgs/20032/20-032__003.jpg
+      alt: Material cut
+    - data-src: /pencils/imgs/20032/20-032__004.jpg
+      href: /pencils/imgs/20032/20-032__004.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20032/20-032__005.jpg
+      href: /pencils/imgs/20032/20-032__005.jpg
+      alt: Drilling the center hole
+    - data-src: /pencils/imgs/20032/20-032__006.jpg
+      href: /pencils/imgs/20032/20-032__006.jpg
+      alt: Glued up and ready to go
+    - data-src: /pencils/imgs/20032/20-032__007.jpg
+      href: /pencils/imgs/20032/20-032__007.jpg
+      alt: Ready to start turning
+    - data-src: /pencils/imgs/20032/20-032__008.jpg
+      href: /pencils/imgs/20032/20-032__008.jpg
+      alt: Shaped, sanded and polished
+    - data-src: /pencils/imgs/20032/20-032__009.jpg
+      href: /pencils/imgs/20032/20-032__009.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20033
+  bullets: false
+  captions: true
+  images:
+    - data-src: /pens/imgs/20033/20-033__001.jpg
+      href: /pens/imgs/20033/20-033__001.jpg
+      alt: Your pen!
+    - data-src: /pens/imgs/20033/20-033__002.jpg
+      href: /pens/imgs/20033/20-033__002.jpg
+      alt: Metaerials measured up and prepped
+    - data-src: /pens/imgs/20033/20-033__003.jpg
+      href: /pens/imgs/20033/20-033__003.jpg
+      alt: Material cut
+    - data-src: /pens/imgs/20033/20-033__004.jpg
+      href: /pens/imgs/20033/20-033__004.jpg
+      alt: Glued up and ready to go
+    - data-src: /pens/imgs/20033/20-033__005.jpg
+      href: /pens/imgs/20033/20-033__005.jpg
+      alt: Ready to start turning
+    - data-src: /pens/imgs/20033/20-033__006.jpg
+      href: /pens/imgs/20033/20-033__006.jpg
+      alt: Material Shaped
+    - data-src: /pens/imgs/20033/20-033__007.jpg
+      href: /pens/imgs/20033/20-033__007.jpg
+      alt: Sanded
+    - data-src: /pens/imgs/20033/20-033__008.jpg
+      href: /pens/imgs/20033/20-033__008.jpg
+      alt: And polished
+    - data-src: /pens/imgs/20033/20-033__009.jpg
+      href: /pens/imgs/20033/20-033__009.jpg
+      alt: Your Pen!
+    - data-src: /pens/imgs/20033/20-033__010.jpg
+      href: /pens/imgs/20033/20-033__010.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20034
+  bullets: false
+  captions: true
+  images:
+    - data-src: /stylus/imgs/20034/20-034__001.jpg
+      href: /stylus/imgs/20034/20-034__001.jpg
+      alt: Your stylus!
+    - data-src: /stylus/imgs/20034/20-034__002.jpg
+      href: /stylus/imgs/20034/20-034__002.jpg
+      alt: Metaerials measured up and prepped
+    - data-src: /stylus/imgs/20034/20-034__003.jpg
+      href: /stylus/imgs/20034/20-034__003.jpg
+      alt: Drilling the center hole
+    - data-src: /stylus/imgs/20034/20-034__004.jpg
+      href: /stylus/imgs/20034/20-034__004.jpg
+      alt: Material Shaped
+    - data-src: /stylus/imgs/20034/20-034__005.jpg
+      href: /stylus/imgs/20034/20-034__005.jpg
+      alt: and sanded
+    - data-src: /stylus/imgs/20034/20-034__006.jpg
+      href: /stylus/imgs/20034/20-034__006.jpg
+      alt: Your stylus!
+    - data-src: /stylus/imgs/20034/20-034__007.jpg
+      href: /stylus/imgs/20034/20-034__007.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
