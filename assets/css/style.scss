@@ -75,3 +75,14 @@ header {
 //     max-width: 200px;
 //   }
 // }
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .card {
+    flex: 0 1 auto;
+    width: 45%;
+  }
+}
