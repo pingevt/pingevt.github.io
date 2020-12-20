@@ -5,6 +5,8 @@ permalink: /gallery
 ---
 
 # Gallery - Coming soon
+
+
 <!-- Here's what I've been working on!
 
 ## Pens / Pencils / Styli
