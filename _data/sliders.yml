@@ -326,6 +326,29 @@
     height: "'auto'"
     effect: "'fade'"
 
+
+
+
+- selector: s20014
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20014/20-014__001.jpg
+      href: /projects/imgs/20014/20-014__001.jpg
+      alt: Your pen!
+    - data-src: /projects/imgs/20014/20-014__002.jpg
+      href: /projects/imgs/20014/20-014__002.jpg
+      alt: Your pen!
+    - data-src: /projects/imgs/20014/20-014__003.jpg
+      href: /projects/imgs/20014/20-014__003.jpg
+      alt: Your pen!
+    - data-src: /projects/imgs/20014/20-014__004.jpg
+      href: /projects/imgs/20014/20-014__004.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
 - selector: s20032
   bullets: false
   captions: true
@@ -335,7 +358,7 @@
       alt: Your pencil!
     - data-src: /projects/imgs/20032/20-032__002.jpg
       href: /projects/imgs/20032/20-032__002.jpg
-      alt: Metaerials measured up and prepped
+      alt: Materials measured up and prepped
     - data-src: /projects/imgs/20032/20-032__003.jpg
       href: /projects/imgs/20032/20-032__003.jpg
       alt: Material cut
@@ -370,7 +393,7 @@
       alt: Your pen!
     - data-src: /projects/imgs/20033/20-033__002.jpg
       href: /projects/imgs/20033/20-033__002.jpg
-      alt: Metaerials measured up and prepped
+      alt: Materials measured up and prepped
     - data-src: /projects/imgs/20033/20-033__003.jpg
       href: /projects/imgs/20033/20-033__003.jpg
       alt: Material cut
@@ -408,7 +431,7 @@
       alt: Your stylus!
     - data-src: /projects/imgs/20034/20-034__002.jpg
       href: /projects/imgs/20034/20-034__002.jpg
-      alt: Metaerials measured up and prepped
+      alt: Materials measured up and prepped
     - data-src: /projects/imgs/20034/20-034__003.jpg
       href: /projects/imgs/20034/20-034__003.jpg
       alt: Drilling the center hole
@@ -424,6 +447,176 @@
     - data-src: /projects/imgs/20034/20-034__007.jpg
       href: /projects/imgs/20034/20-034__007.jpg
       alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20036
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20036/20-036__001.jpg
+      href: /projects/imgs/20036/20-036__001.jpg
+      alt: Materials cut
+    - data-src: /projects/imgs/20036/20-036__002.jpg
+      href: /projects/imgs/20036/20-036__002.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/20036/20-036__003.jpg
+      href: /projects/imgs/20036/20-036__003.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/20036/20-036__004.jpg
+      href: /projects/imgs/20036/20-036__004.jpg
+      alt: Sanded
+    - data-src: /projects/imgs/20036/20-036__005.jpg
+      href: /projects/imgs/20036/20-036__005.jpg
+      alt: More sanding
+    - data-src: /projects/imgs/20036/20-036__006.jpg
+      href: /projects/imgs/20036/20-036__006.jpg
+      alt: Zebrawood polished
+    - data-src: /projects/imgs/20036/20-036__007.jpg
+      href: /projects/imgs/20036/20-036__007.jpg
+      alt: Acrylic Sanded
+    - data-src: /projects/imgs/20036/20-036__008.jpg
+      href: /projects/imgs/20036/20-036__008.jpg
+      alt: Acrylic polished
+    - data-src: /projects/imgs/20036/20-036__009.jpg
+      href: /projects/imgs/20036/20-036__009.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20036/20-036__010.jpg
+      href: /projects/imgs/20036/20-036__010.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20036/20-036__011.jpg
+      href: /projects/imgs/20036/20-036__011.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20037
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20037/20-037__001.jpg
+      href: /projects/imgs/20037/20-037__001.jpg
+      alt: Materials measured up and prepped
+    - data-src: /projects/imgs/20037/20-037__002.jpg
+      href: /projects/imgs/20037/20-037__002.jpg
+      alt: Materials ready to glue up
+    - data-src: /projects/imgs/20037/20-037__003.jpg
+      href: /projects/imgs/20037/20-037__003.jpg
+      alt: Materials all glued up
+    - data-src: /projects/imgs/20037/20-037__004.jpg
+      href: /projects/imgs/20037/20-037__004.jpg
+      alt: Material shaped and sanded
+    - data-src: /projects/imgs/20037/20-037__005.jpg
+      href: /projects/imgs/20037/20-037__005.jpg
+      alt: Polished
+    - data-src: /projects/imgs/20037/20-037__006.jpg
+      href: /projects/imgs/20037/20-037__006.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20037/20-037__007.jpg
+      href: /projects/imgs/20037/20-037__007.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20037/20-037__008.jpg
+      href: /projects/imgs/20037/20-037__008.jpg
+      alt: The full set
+    - data-src: /projects/imgs/20037/20-037__009.jpg
+      href: /projects/imgs/20037/20-037__009.jpg
+      alt: The full set
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20038
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20038/20-038__001.jpg
+      href: /projects/imgs/20038/20-038__001.jpg
+      alt: Materials measured up and prepped
+    - data-src: /projects/imgs/20038/20-038__002.jpg
+      href: /projects/imgs/20038/20-038__002.jpg
+      alt: Materials cut
+    - data-src: /projects/imgs/20038/20-038__003.jpg
+      href: /projects/imgs/20038/20-038__003.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/20038/20-038__004.jpg
+      href: /projects/imgs/20038/20-038__004.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/20038/20-038__005.jpg
+      href: /projects/imgs/20038/20-038__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/20038/20-038__006.jpg
+      href: /projects/imgs/20038/20-038__006.jpg
+      alt: Material rounded
+    - data-src: /projects/imgs/20038/20-038__007.jpg
+      href: /projects/imgs/20038/20-038__007.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/20038/20-038__008.jpg
+      href: /projects/imgs/20038/20-038__008.jpg
+      alt: Sanding
+    - data-src: /projects/imgs/20038/20-038__009.jpg
+      href: /projects/imgs/20038/20-038__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/20038/20-038__010.jpg
+      href: /projects/imgs/20038/20-038__010.jpg
+      alt: The parts
+    - data-src: /projects/imgs/20038/20-038__011.jpg
+      href: /projects/imgs/20038/20-038__011.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/20038/20-038__012.jpg
+      href: /projects/imgs/20038/20-038__012.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s20039
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20039/20-039__001.jpg
+      href: /projects/imgs/20039/20-039__001.jpg
+      alt: Materials measured up and prepped
+    - data-src: /projects/imgs/20039/20-039__002.jpg
+      href: /projects/imgs/20039/20-039__002.jpg
+      alt: Materials cut
+    - data-src: /projects/imgs/20039/20-039__003.jpg
+      href: /projects/imgs/20039/20-039__003.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/20039/20-039__004.jpg
+      href: /projects/imgs/20039/20-039__004.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/20039/20-039__005.jpg
+      href: /projects/imgs/20039/20-039__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/20039/20-039__006.jpg
+      href: /projects/imgs/20039/20-039__006.jpg
+      alt: Ooops - bad catch but wasn't too bad
+    - data-src: /projects/imgs/20039/20-039__007.jpg
+      href: /projects/imgs/20039/20-039__007.jpg
+      alt: Ooops 2
+    - data-src: /projects/imgs/20039/20-039__008.jpg
+      href: /projects/imgs/20039/20-039__008.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/20039/20-039__009.jpg
+      href: /projects/imgs/20039/20-039__009.jpg
+      alt: Material shaped
+    - data-src: /projects/imgs/20039/20-039__010.jpg
+      href: /projects/imgs/20039/20-039__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/20039/20-039__011.jpg
+      href: /projects/imgs/20039/20-039__011.jpg
+      alt: The parts
+    - data-src: /projects/imgs/20039/20-039__012.jpg
+      href: /projects/imgs/20039/20-039__012.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/20039/20-039__013.jpg
+      href: /projects/imgs/20039/20-039__013.jpg
+      alt: Your pen
+    - data-src: /projects/imgs/20039/20-039__014.jpg
+      href: /projects/imgs/20039/20-039__014.jpg
+      alt: Your pen
   settings:
     height: "'auto'"
     effect: "'fade'"
