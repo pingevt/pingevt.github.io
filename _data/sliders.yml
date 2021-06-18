@@ -1,3 +1,21 @@
+- selector: s20015
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/20015/20-015__001.jpg
+      href: /projects/imgs/20015/20-015__001.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20015/20-015__002.jpg
+      href: /projects/imgs/20015/20-015__002.jpg
+      alt: Your Pen!
+    - data-src: /projects/imgs/20015/20-015__003.jpg
+      href: /projects/imgs/20015/20-015__003.jpg
+      alt: Your Pen! and one of its brothers
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+
 - selector: s20023
   bullets: false
   captions: true
