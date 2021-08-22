@@ -15,7 +15,6 @@
     height: "'auto'"
     effect: "'fade'"
 
-
 - selector: s20023
   bullets: false
   captions: true
@@ -344,9 +343,6 @@
     height: "'auto'"
     effect: "'fade'"
 
-
-
-
 - selector: s20014
   bullets: false
   captions: true
@@ -634,6 +630,53 @@
       alt: Your pen
     - data-src: /projects/imgs/20039/20-039__014.jpg
       href: /projects/imgs/20039/20-039__014.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s21008
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21008/21-008__001.jpg
+      href: /projects/imgs/21008/21-008__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21008/21-008__002.jpg
+      href: /projects/imgs/21008/21-008__002.jpg
+      alt: Drilling out the center hole
+    - data-src: /projects/imgs/21008/21-008__003.jpg
+      href: /projects/imgs/21008/21-008__003.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21008/21-008__004.jpg
+      href: /projects/imgs/21008/21-008__004.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21008/21-008__005.jpg
+      href: /projects/imgs/21008/21-008__005.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21008/21-008__006.jpg
+      href: /projects/imgs/21008/21-008__006.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21008/21-008__007.jpg
+      href: /projects/imgs/21008/21-008__007.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21008/21-008__008.jpg
+      href: /projects/imgs/21008/21-008__008.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21008/21-008__009.jpg
+      href: /projects/imgs/21008/21-008__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21008/21-008__010.jpg
+      href: /projects/imgs/21008/21-008__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21008/21-008__011.jpg
+      href: /projects/imgs/21008/21-008__011.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21008/21-008__012.jpg
+      href: /projects/imgs/21008/21-008__012.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21008/21-008__013.jpg
+      href: /projects/imgs/21008/21-008__013.jpg
       alt: Your pen
   settings:
     height: "'auto'"
