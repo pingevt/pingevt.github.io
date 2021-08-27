@@ -681,3 +681,235 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+
+- selector: s21009
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21009/21-009__001.jpg
+      href: /projects/imgs/21009/21-009__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21009/21-009__002.jpg
+      href: /projects/imgs/21009/21-009__002.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21009/21-009__003.jpg
+      href: /projects/imgs/21009/21-009__003.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21009/21-009__004.jpg
+      href: /projects/imgs/21009/21-009__004.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21009/21-009__005.jpg
+      href: /projects/imgs/21009/21-009__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21009/21-009__006.jpg
+      href: /projects/imgs/21009/21-009__006.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21009/21-009__007.jpg
+      href: /projects/imgs/21009/21-009__007.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21009/21-009__008.jpg
+      href: /projects/imgs/21009/21-009__008.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21009/21-009__009.jpg
+      href: /projects/imgs/21009/21-009__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21009/21-009__010.jpg
+      href: /projects/imgs/21009/21-009__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21009/21-009__011.jpg
+      href: /projects/imgs/21009/21-009__011.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21009/21-009__012.jpg
+      href: /projects/imgs/21009/21-009__012.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s21010
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21010/21-010__001.jpg
+      href: /projects/imgs/21010/21-010__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21010/21-010__002.jpg
+      href: /projects/imgs/21010/21-010__002.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21010/21-010__003.jpg
+      href: /projects/imgs/21010/21-010__003.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21010/21-010__004.jpg
+      href: /projects/imgs/21010/21-010__004.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21010/21-010__005.jpg
+      href: /projects/imgs/21010/21-010__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21010/21-010__006.jpg
+      href: /projects/imgs/21010/21-010__006.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21010/21-010__007.jpg
+      href: /projects/imgs/21010/21-010__007.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21010/21-010__008.jpg
+      href: /projects/imgs/21010/21-010__008.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21010/21-010__009.jpg
+      href: /projects/imgs/21010/21-010__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21010/21-010__010.jpg
+      href: /projects/imgs/21010/21-010__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21010/21-010__011.jpg
+      href: /projects/imgs/21010/21-010__011.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21010/21-010__012.jpg
+      href: /projects/imgs/21010/21-010__012.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s21011
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21011/21-011__001.jpg
+      href: /projects/imgs/21011/21-011__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21011/21-011__002.jpg
+      href: /projects/imgs/21011/21-011__002.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21011/21-011__003.jpg
+      href: /projects/imgs/21011/21-011__003.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21011/21-011__004.jpg
+      href: /projects/imgs/21011/21-011__004.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21011/21-011__005.jpg
+      href: /projects/imgs/21011/21-011__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21011/21-011__006.jpg
+      href: /projects/imgs/21011/21-011__006.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21011/21-011__007.jpg
+      href: /projects/imgs/21011/21-011__007.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21011/21-011__008.jpg
+      href: /projects/imgs/21011/21-011__008.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21011/21-011__009.jpg
+      href: /projects/imgs/21011/21-011__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21011/21-011__010.jpg
+      href: /projects/imgs/21011/21-011__010.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21011/21-011__011.jpg
+      href: /projects/imgs/21011/21-011__011.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s21012
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21012/21-012__001.jpg
+      href: /projects/imgs/21012/21-012__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21012/21-012__002.jpg
+      href: /projects/imgs/21012/21-012__002.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21012/21-012__003.jpg
+      href: /projects/imgs/21012/21-012__003.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21012/21-012__004.jpg
+      href: /projects/imgs/21012/21-012__004.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21012/21-012__005.jpg
+      href: /projects/imgs/21012/21-012__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21012/21-012__006.jpg
+      href: /projects/imgs/21012/21-012__006.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21012/21-012__007.jpg
+      href: /projects/imgs/21012/21-012__007.jpg
+      alt: Shaping
+    - data-src: /projects/imgs/21012/21-012__008.jpg
+      href: /projects/imgs/21012/21-012__008.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21012/21-012__009.jpg
+      href: /projects/imgs/21012/21-012__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21012/21-012__010.jpg
+      href: /projects/imgs/21012/21-012__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21012/21-012__011.jpg
+      href: /projects/imgs/21012/21-012__011.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21012/21-012__012.jpg
+      href: /projects/imgs/21012/21-012__012.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21012/21-012__013.jpg
+      href: /projects/imgs/21012/21-012__013.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: s21013
+  bullets: false
+  captions: true
+  images:
+    - data-src: /projects/imgs/21013/21-013__001.jpg
+      href: /projects/imgs/21013/21-013__001.jpg
+      alt: Materials cut up and prepped
+    - data-src: /projects/imgs/21013/21-013__002.jpg
+      href: /projects/imgs/21013/21-013__002.jpg
+      alt: Everything ready for glueing
+    - data-src: /projects/imgs/21013/21-013__003.jpg
+      href: /projects/imgs/21013/21-013__003.jpg
+      alt: All glued up
+    - data-src: /projects/imgs/21013/21-013__004.jpg
+      href: /projects/imgs/21013/21-013__004.jpg
+      alt: Squaring up the ends
+    - data-src: /projects/imgs/21013/21-013__005.jpg
+      href: /projects/imgs/21013/21-013__005.jpg
+      alt: Ready to start turning
+    - data-src: /projects/imgs/21013/21-013__006.jpg
+      href: /projects/imgs/21013/21-013__006.jpg
+      alt: Mounted
+    - data-src: /projects/imgs/21013/21-013__007.jpg
+      href: /projects/imgs/21013/21-013__007.jpg
+      alt: Shaping
+    - data-src: /projects/imgs/21013/21-013__008.jpg
+      href: /projects/imgs/21013/21-013__008.jpg
+      alt: Material Shaped
+    - data-src: /projects/imgs/21013/21-013__009.jpg
+      href: /projects/imgs/21013/21-013__009.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__010.jpg
+      href: /projects/imgs/21013/21-013__010.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__011.jpg
+      href: /projects/imgs/21013/21-013__011.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__012.jpg
+      href: /projects/imgs/21013/21-013__012.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__013.jpg
+      href: /projects/imgs/21013/21-013__013.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__014.jpg
+      href: /projects/imgs/21013/21-013__014.jpg
+      alt: Sanding and polishing
+    - data-src: /projects/imgs/21013/21-013__015.jpg
+      href: /projects/imgs/21013/21-013__015.jpg
+      alt: All assembled
+    - data-src: /projects/imgs/21013/21-013__016.jpg
+      href: /projects/imgs/21013/21-013__016.jpg
+      alt: Your pen
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
